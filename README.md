@@ -2,4 +2,4 @@
 
 ![](./Darth-Vader.png)
 
-Esre repositório serve de exemplo paar o curso de Git e Github
+Este repositório serve de exemplo paar o curso de Git e Github
